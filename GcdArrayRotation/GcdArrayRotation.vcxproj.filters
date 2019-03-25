@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="SplitArrayRotation.c">
+    <ClCompile Include="GcdArrayRotation.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

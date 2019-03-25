@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="SplitArrayRotation.c">
+    <ClCompile Include="PushOneByOneArrayRotation.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
