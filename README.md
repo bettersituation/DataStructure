@@ -7,4 +7,6 @@
         - move 1by1(https://github.com/bettersituation/DataStructure/blob/master/PushOneByOneArrayRotation/PushOneByOneArrayRotation.c)
         - gcd trick(https://github.com/bettersituation/DataStructure/blob/master/GcdArrayRotation/GcdArrayRotation.c)
         - reverse swap(https://github.com/bettersituation/DataStructure/blob/master/ReverseSwapArrayRotation/ReverseSwapArrayRotation.c)
+        - block swap(https://github.com/bettersituation/DataStructure/blob/master/BlockSwapArrayRotation/BlockSwapArrayRotation.c)
+        - right rotation(https://github.com/bettersituation/DataStructure/blob/master/RightBy1ArrayRotation/RightBy1ArrayRotation.c)
         
