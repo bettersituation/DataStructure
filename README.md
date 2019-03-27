@@ -9,4 +9,6 @@
         - reverse swap(https://github.com/bettersituation/DataStructure/blob/master/ReverseSwapArrayRotation/ReverseSwapArrayRotation.c)
         - block swap(https://github.com/bettersituation/DataStructure/blob/master/BlockSwapArrayRotation/BlockSwapArrayRotation.c)
         - right rotation(https://github.com/bettersituation/DataStructure/blob/master/RightBy1ArrayRotation/RightBy1ArrayRotation.c)
+        - search on rotated sorted array(https://github.com/bettersituation/DataStructure/blob/master/SearchOnRotatedSortedArray/SearchOnRotatedSortedArray.c)
+        - search pairs which sum is given in rotated sorted array(https://github.com/bettersituation/DataStructure/blob/master/SearchPairOnRotatedSortedArray/SearchPairOnRotatedSortedArray.c)
         
