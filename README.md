@@ -11,4 +11,7 @@
         - right rotation(https://github.com/bettersituation/DataStructure/blob/master/RightBy1ArrayRotation/RightBy1ArrayRotation.c)
         - search on rotated sorted array(https://github.com/bettersituation/DataStructure/blob/master/SearchOnRotatedSortedArray/SearchOnRotatedSortedArray.c)
         - search pairs which sum is given in rotated sorted array(https://github.com/bettersituation/DataStructure/blob/master/SearchPairOnRotatedSortedArray/SearchPairOnRotatedSortedArray.c)
+        - find max of i*arr[i] with rotation(https://github.com/bettersituation/DataStructure/blob/master/FindMaxIsumWithRotatingArray/FindMaxIsumWithRotatingArray.c)
+        - find rotation count(https://github.com/bettersituation/DataStructure/blob/master/FindRotationCountOnSortedArray/FindRotationCountOnSortedArray.c)
+        - find given times rotation applied(https://github.com/bettersituation/DataStructure/blob/master/FIndKRotatedArray/FindKRotatedArray.c)
         
