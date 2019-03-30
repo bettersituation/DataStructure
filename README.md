@@ -14,4 +14,10 @@
         - find max of i*arr[i] with rotation(https://github.com/bettersituation/DataStructure/blob/master/FindMaxIsumWithRotatingArray/FindMaxIsumWithRotatingArray.c)
         - find rotation count(https://github.com/bettersituation/DataStructure/blob/master/FindRotationCountOnSortedArray/FindRotationCountOnSortedArray.c)
         - find given times rotation applied(https://github.com/bettersituation/DataStructure/blob/master/FIndKRotatedArray/FindKRotatedArray.c)
+        - find maximum of hamming distance of array with rotation operator(https://github.com/bettersituation/DataStructure/blob/master/FindMaxHamWithRotation/FindMaxHamWithRotation.c)
+        - get array after right rotation applied k-times(https://github.com/bettersituation/DataStructure/blob/master/FindKRevRotatedArray/FindKRevRotatedArray.c)
+        - find element at a given index after interval right rotations applied v1(https://github.com/bettersituation/DataStructure/blob/master/EfficientValueAtIndex/EfficientValueAtIndex.c)
+        - find element at a given index after interval right rotations applied v2(https://github.com/bettersituation/DataStructure/blob/master/ValueAtGivenIndex/ValueAtGivenIndex.c)
+        - find minimum element on rotated sorted array(https://github.com/bettersituation/DataStructure/blob/master/FindMinOnRotatedSortedArray/FindMinOnRotatedSortedArray.c)
+        - query output which consist of right/left rotation and summing(https://github.com/bettersituation/DataStructure/blob/master/QueryOutputOnArray/QueryOutputOnArray.c)
         
